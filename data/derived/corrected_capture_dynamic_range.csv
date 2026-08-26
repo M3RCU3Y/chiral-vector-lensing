@@ -1,0 +1,5 @@
+case,escape_speed_over_c,k_capture_over_astar_ma,k_peak,UV_margin_times_kpeak,resolved_IR_modes_below_capture,minimum_N_2over3_dealiased
+corrected pilot endpoint,0.0316523516357,0.015834109676054302,1.47,2.0,1,559
+corrected pilot endpoint,0.0316523516357,0.015834109676054302,1.47,2.0,4,2230
+AEN displayed large-normalization escape speed,0.0017912391912140765,0.0008956210324251772,1.47,2.0,1,9850
+AEN displayed large-normalization escape speed,0.0017912391912140765,0.0008956210324251772,1.47,2.0,4,39394

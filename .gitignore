@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+results/smoke/
+results/local-*/
+figures/*.png
+
+data/raw/*.npz

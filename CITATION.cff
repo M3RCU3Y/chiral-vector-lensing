@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the manuscript and this reproducibility release."
+title: "Parity-Odd Weak Lensing from Chiral Vector Dark Matter: Reproducibility Repository"
+type: software
+authors:
+  - family-names: Deonarine
+    given-names: Brandon
+    affiliation: "The University of the West Indies, St. Augustine"
+version: 1.1.0
+date-released: 2026-08-26
+repository-code: "https://github.com/M3RCU3Y/chiral-vector-lensing"
+abstract: >-
+  Analytic derivations and reproducible numerical pilots connecting chiral
+  massive-vector production to helical momentum currents, frame dragging and
+  parity-odd weak lensing, including strict de-aliasing, independent Proca
+  constraint diagnostics, spatial/timestep/seed convergence controls and a
+  capture dynamic-range theorem.
+keywords:
+  - dark photon
+  - axion
+  - Proca field
+  - weak lensing
+  - parity violation
+  - frame dragging
+  - helicity
+license: MIT
+preferred-citation:
+  type: article
+  title: "Parity-Odd Weak Lensing from Chiral Vector Dark Matter"
+  authors:
+    - family-names: Deonarine
+      given-names: Brandon
+  year: 2026

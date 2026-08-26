@@ -72,14 +72,14 @@ src/                    production, current-spectrum, nonlinear Proca solvers
 scripts/                post-processing, figure and quadrature helpers
 tests/                  convention, constraint and convergence tests
 config/                 AEN benchmark configuration
-data/raw/                deterministic linear handoff covariance
+data/raw/                generated deterministic linear handoff (not tracked)
 data/derived/            compact tables and quadrature outputs
-results/corrected/       canonical corrected nonlinear histories
-paper/figures/           generated corrected numerical plots
+results/corrected/       canonical corrected validation histories
+figures/                 regenerated corrected numerical plots
 docs/                    method, claims, provenance and reproducibility notes
 ```
 
-The manuscript's LaTeX source and compiled PDF are intentionally kept outside this calculation repository. The manuscript itself points to this repository for its public code and numerical data.
+The manuscript source and compiled PDF are intentionally kept outside this calculation repository. The manuscript points here for its public code, numerical histories, derived tables, tests, and figure-generation pipeline.
 
 ## Quick start
 

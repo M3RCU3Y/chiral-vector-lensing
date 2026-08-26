@@ -1,0 +1,10 @@
+{
+  "title": "Chiral Vector Lensing: Reproducibility Code and Numerical Data",
+  "upload_type": "software",
+  "description": "Public calculation and numerical-data companion for Parity-Odd Weak Lensing from Chiral Vector Dark Matter. Includes the deterministic AEN handoff, relativistic current quadrature, corrected nonlinear axion-Proca pilot, validation histories, tests, post-processing and figure generation.",
+  "creators": [
+    {"name": "Deonarine, Brandon", "affiliation": "The University of the West Indies, St. Augustine"}
+  ],
+  "keywords": ["dark photon", "axion", "Proca field", "weak lensing", "parity violation", "frame dragging", "helicity", "computational physics"],
+  "notes": "Code is licensed under MIT. Original repository-generated data are licensed under CC BY 4.0. The manuscript and compiled PDF are not included in this repository."
+}

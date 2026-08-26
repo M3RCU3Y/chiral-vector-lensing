@@ -1,0 +1,17 @@
+{
+  "mass_axion_eV": 1e-22,
+  "decay_constant_GeV": 1e17,
+  "chern_simons_lambda": 5.0,
+  "dark_photon_to_axion_mass_ratio": 0.5,
+  "production_redshift": 20.0,
+  "initial_theta": 1.0,
+  "handoff_vector_energy_fraction": 0.001,
+  "box_length_astar_ma_inverse": 18.84955592153876,
+  "reference_grid_N": 24,
+  "reference_dt": 0.01,
+  "reference_tmax": 7.5,
+  "reference_seed": 260823,
+  "requested_kinit_over_astar_ma": 2.4,
+  "strict_two_thirds_dealias": true,
+  "notes": "For N=24 strict de-aliasing limits the isotropically safe initialization radius to 7/3. The N=25,32,40 bridge hierarchy uses the full requested kinit=2.4."
+}
